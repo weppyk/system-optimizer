@@ -18,3 +18,12 @@ This section provides instructions on how to use `.ps1` files. For detailed inst
 2. Navigate to the directory containing the `.ps1` file
 3. Run the `.ps1` file by typing `.\filename.ps1`
 4. Follow any prompts or instructions provided by the script
+
+## Running Tests for Optimization Scripts
+
+This section provides instructions on how to run tests for the optimization scripts.
+
+1. Open PowerShell as an administrator
+2. Navigate to the `tests` directory
+3. Run the test script by typing `.\test-script-name.ps1`
+4. Review the test results and ensure all tests pass
